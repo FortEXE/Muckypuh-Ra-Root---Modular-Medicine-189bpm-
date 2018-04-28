@@ -1,0 +1,78 @@
+osu file format v14
+
+[General]
+AudioFilename: audio.mp3
+AudioLeadIn: 0
+PreviewTime: 60934
+Countdown: 0
+SampleSet: Soft
+StackLeniency: 0.6
+Mode: 0
+LetterboxInBreaks: 0
+WidescreenStoryboard: 1
+
+[Editor]
+Bookmarks: 19029,60934,71093,81251,91410,101569,132045,182839,232362,294585,325061,356807,377124
+DistanceSpacing: 3
+BeatDivisor: 8
+GridSize: 4
+TimelineZoom: 3.299999
+
+[Metadata]
+Title:Modular Medicine (189bpm)
+TitleUnicode:Modular Medicine (189bpm)
+Artist:Muckypuh & Ra Root
+ArtistUnicode:Muckypuh & Ra Root
+Creator:[Dubstep
+Version:3/10
+Source:
+Tags:Zeakon Records
+BeatmapID:0
+BeatmapSetID:-1
+
+[Difficulty]
+HPDrainRate:7
+CircleSize:4
+OverallDifficulty:8.8
+ApproachRate:9.6
+SliderMultiplier:1.4
+SliderTickRate:1
+
+[Events]
+//Background and Video events
+0,0,"Trippy-Backgrounds-1024x576.jpg",0,0
+//Break Periods
+//Storyboard Layer 0 (Background)
+//Storyboard Layer 1 (Fail)
+//Storyboard Layer 2 (Pass)
+//Storyboard Layer 3 (Foreground)
+//Storyboard Sound Samples
+
+[TimingPoints]
+-18,317.460317460317,4,2,0,100,1,0
+30458,-66.6666666666667,4,2,0,100,0,0
+32045,-83.3333333333333,4,2,0,100,0,0
+50775,-71.4285714285714,4,2,0,100,0,0
+60934,-62.5,4,2,0,100,0,0
+101569,-100,4,2,0,100,0,0
+111728,-66.6666666666667,4,2,0,100,0,0
+121886,-62.5,4,2,0,100,0,0
+132045,-76.9230769230769,4,2,0,100,0,0
+152362,-66.6666666666667,4,2,0,100,0,0
+172680,-58.8235294117647,4,2,0,100,0,0
+182839,-200,4,2,0,100,0,0
+187918,-100,4,2,0,100,0,0
+192997,-76.9230769230769,4,2,0,100,0,0
+232362,-66.6666666666667,4,2,0,100,0,0
+262839,-62.5,4,2,0,100,0,0
+293315,-111.111111111111,4,2,0,100,0,0
+300299,-62.5,4,2,0,100,0,0
+304743,-125,4,2,0,100,0,0
+325061,-76.9230769230769,4,2,0,100,0,0
+335220,-66.6666666666667,4,2,0,100,0,0
+345378,-62.5,4,2,0,100,0,0
+377124,-100,4,2,0,100,0,0
+
+
+[HitObjects]
+216,80,101569,6,0,L|176:72,3,35
